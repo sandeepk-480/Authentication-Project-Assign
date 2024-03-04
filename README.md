@@ -31,13 +31,13 @@ Dashboard is like the user profile page, which shows user data on the page. <br>
 
 How to Use???
 
-Open any of your code editor, like vs code or pycharm.
-open Terminal and run this commands-
-Create a seperate Virtual environment (Not must, but recommended).
-1- git clone https://github.com/sandeepk-480/Authentication-Project-Assign-.git
-2- cd Authentication-Project-Assign-
-3- pip install -r requirements.txt
-4- python manage.py runserver
+Open any of your code editor, like vs code or pycharm.<br>
+open Terminal and run this commands-<br>
+Create a seperate Virtual environment (Not must, but recommended). <br>
+1- git clone https://github.com/sandeepk-480/Authentication-Project-Assign-.git <br>
+2- cd Authentication-Project-Assign- <br>
+3- pip install -r requirements.txt <br>
+4- python manage.py runserver <br>
 
 
 
