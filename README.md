@@ -29,6 +29,16 @@ Dashboard is like the user profile page, which shows user data on the page. <br>
 5) If user is authenticated, he cant revisit login page until he/she logout. <br>
 6) Uploading profile picture is not required, so have provided a default image for the given users.<br>
 
+How to Use???
+
+Open any of your code editor, like vs code or pycharm.
+open Terminal and run this commands-
+Create a seperate Virtual environment (Not must, but recommended).
+1- git clone https://github.com/sandeepk-480/Authentication-Project-Assign-.git
+2- cd Authentication-Project-Assign-
+3- pip install -r requirements.txt
+4- python manage.py runserver
+
 
 
 
